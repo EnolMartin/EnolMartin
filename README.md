@@ -3,7 +3,7 @@
 
 <p align="center">
   Desarrollador recién graduado en DAM con experiencia real en producción.<br/>
-  Construyo webs modernas, apps Android nativas e integro IA y automatización en productos reales.
+  Construyo web, app e integro IA y automatización en productos reales.
 </p>
 
 ---
